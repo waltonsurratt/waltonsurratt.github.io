@@ -1,0 +1,59 @@
+{
+  "last_updated": "2026-06-19",
+  "applications": [
+    {
+      "name": "JpegCompressor",
+      "os": "Windows",
+      "platform": "x86",
+      "current_version": "1.2.1",
+      "release_date": "2026-06-05",
+      "download_link": "https://github.com/waltonsurratt/JpegCompressor/releases/download/v1.2.1/JpegCompressor_x86.exe",
+      "source": "Site Owner"
+    },
+    {
+      "name": "JpegCompressor",
+      "os": "Windows",
+      "platform": "x64",
+      "current_version": "1.2.1",
+      "release_date": "2026-06-05",
+      "download_link": "https://github.com/waltonsurratt/JpegCompressor/releases/download/v1.2.1/JpegCompressor_x64.exe",
+      "source": "Site Owner"
+    },
+    {
+      "name": "JpegCompressorCS",
+      "os": "Windows",
+      "platform": "x86",
+      "current_version": "1.2.1",
+      "release_date": "2026-06-10",
+      "download_link": "https://github.com/waltonsurratt/JpegCompressorCS/releases/download/v1.2.1/JpegCompressorCS.exe",
+      "source": "Site Owner"
+    },
+    {
+      "name": "JpegCompressorCS",
+      "os": "Windows",
+      "platform": "x64",
+      "current_version": "1.2.1",
+      "release_date": "2026-06-10",
+      "download_link": "https://github.com/waltonsurratt/JpegCompressorCS/releases/download/v1.2.1/JpegCompressorCS_x64.exe",
+      "source": "Site Owner"
+    },
+    {
+      "name": "IniParser",
+      "os": "Windows",
+      "platform": "x64",
+      "current_version": "1.0",
+      "release_date": "2026-05-05",
+      "download_link": "https://github.com/waltonsurratt/IniParser/releases/latest/download/IniParser.dll",
+      "source": "Site Owner"
+    },
+    {
+      "name": "Retro-Style-Loading-Bar",
+      "os": "Windows",
+      "platform": "x64",
+      "current_version": "1.0",
+      "release_date": "2026-04-21",
+      "download_link": "https://github.com/waltonsurratt/Retro-Style-Loading-Bar/releases/latest/download/Retro-Style-Loading-Bar-x64.exe",
+      "source": "Site Owner"
+    }
+  ]
+}
